@@ -1,2 +1,3 @@
 # easycommand
-esay work for debian base os
+easy work 
+run as administrator
